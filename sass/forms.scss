@@ -114,6 +114,10 @@ body {
                     letter-spacing: 0.15rem;
                     margin-bottom: 2rem;
                     cursor: pointer;
+                    transition: all 0.25s ease-in-out;
+                    &:hover {
+                        transform: translateY(-5px);
+                    }
                 }
                 
             }
