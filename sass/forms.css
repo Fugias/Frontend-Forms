@@ -147,6 +147,7 @@ body {
   font-size: 1.3rem;
   letter-spacing: 0.15rem;
   margin-bottom: 2rem;
+  cursor: pointer;
 }
 
 .form__form__input p {
